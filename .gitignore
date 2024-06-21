@@ -1,0 +1,4 @@
+/src/*
+!/src/php.ini
+
+.DS_Store
